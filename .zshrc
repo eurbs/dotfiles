@@ -1,3 +1,8 @@
+# Highly recommend installing Oh My Zsh https://ohmyz.sh/
+
+# brew install ffmpeg
+# brew install gifsicle
+
 # === INSTALLED BY ME ===
 
 # Resources:
