@@ -1,6 +1,8 @@
 # Highly recommend installing Oh My Zsh https://ohmyz.sh/
 
-ZSH_THEME="robbyrussell-clone"
+# I've lost the clone :(
+# ZSH_THEME="robbyrussell-clone"
+ZSH_THEME="robbyrussell"
 
 # brew install ffmpeg
 # brew install gifsicle
